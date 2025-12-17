@@ -79,7 +79,7 @@ endmodule
 ```
 
 
- Developed by: RegisterNumber: 
+ Developed by:E ARYA KRISHNA  RegisterNumber: 25016837
  
 **Logic symbol & Truthtable**
 ![WhatsApp Image 2025-12-17 at 09 27 46](https://github.com/user-attachments/assets/b7a3d4f9-1e95-48c0-9e6b-35c22df64c51)
